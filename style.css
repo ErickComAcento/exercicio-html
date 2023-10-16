@@ -1,0 +1,31 @@
+body {
+    background: #e6e2b7; 
+    width: 100%;
+}
+
+#eu {
+    text-align: center;
+    border: 5px dashed #f6f3dc;
+    margin: 2px 390px 2px 390px;
+    background-color: #f3efcc;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 35px;
+    color: rgb(252, 244, 179);
+    background-color: rgba(208, 180, 70, 0.751);
+    margin: 25px 85px 5px 85px
+}
+
+#sobremim {
+    font-family: "Bebas Neue";
+    font-size: 20px
+}
+
+.formulario {
+    text-align: center;
+    background-color: rgba(208, 180, 70, 0.751);
+    padding-bottom: 25px;
+}
