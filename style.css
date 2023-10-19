@@ -3,14 +3,14 @@ body {
     width: 100%;
 }
 
-#eu {
+.eu {
     text-align: center;
-    border: 5px dashed #f6f3dc;
+    border: 5px solid #f6f3dc;
     margin: 2px 390px 2px 390px;
     background-color: #f3efcc;
 }
 
-h1 {
+.tracking-in-expand {
     text-align: center;
     font-family: "Bebas Neue";
     font-size: 35px;
@@ -58,5 +58,33 @@ h1 {
 .formulario {
     text-align: center;
     background-color: rgba(208, 180, 70, 0.751);
-    padding-bottom: 25px;
+    padding-bottom: 17px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+button {
+position: absolute;
+right: 10px;  
+}
+
+.modoescuro {
+  background-color: rgb(54, 57, 56);
+
+}
+
+.modoescuroEu {
+  background-color: rgb(107, 107, 107);
+  color: #fff;
+  border: 5px solid #313131;
+
+}
+
+.margem {
+  background-color: rgb(84, 84, 84);
+  color: #bdbdbd
+} 
+
+.rodape {
+  background-color: #272727;
 }
